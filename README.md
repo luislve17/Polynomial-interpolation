@@ -1,5 +1,4 @@
 # Interpolación polinomial
-## @autor: Luis Vasquez Espinoza
 ## Fecha de inclusión: 2018/07/15
 
 ### Resumen
@@ -21,6 +20,8 @@ python3 main.py
 ```
 
 Si se desea jugar con los valores de la matriz usada o las escalas de redimensionamientos, modificar solor el archivo _main.py_, los otros archivos son las librerias de calculo numérico y ploteo
+
+### @autor: Luis Vasquez Espinoza
 
 ### Referencias
 * W.H. Press, S.A. Teukolsky, W.T. Vetterling, W.P. Flannery, Numerical Recipes in C: The Art of Scientific Computing (1992) pg.123-127.
